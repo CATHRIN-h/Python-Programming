@@ -1,5 +1,5 @@
 ch=input('enter here:')
 if((ch>='a'or ch<='z')or(ch>='A'or ch<='z'):
- print('its an alphabet')
+ print('an alphabet')
 else:
- print('its not an alphabet')
+ print('not an alphabet')
